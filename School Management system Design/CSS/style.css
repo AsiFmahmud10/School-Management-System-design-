@@ -1,0 +1,38 @@
+*{
+     margin: 0px;
+     border: 0px;
+
+
+}
+.banner{
+     
+    height: 80vh;
+    border: 1px solid sienna;
+    width: 100%;
+
+
+}
+.sec{
+      
+    
+    padding: 70px 0;
+    padding-left: 30px;
+    background-image:url(../img/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.sec i{
+    font-size: 100px;
+    color:rgb(13, 141, 19);
+}
+.user img{
+   
+}
+.page-footer{
+     
+background-image: url(../img/footer.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}

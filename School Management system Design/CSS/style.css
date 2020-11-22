@@ -47,14 +47,29 @@ border-radius: 3px;
 }
 .icon{
     font-size: 50px;
-    padding: 4px;
+   
     
-    border-radius: 17px;
+   
     color: crimson;
-    padding-left: 150px;
+    
 
 }
 .icon i{
     margin-left: 7px;
     font-size: 47px;
+}
+
+.pro{
+ 
+    font-size: 15px;
+    font-weight: 700;
+    margin: 25px 5px;
+    text-align: center;
+
+}
+.nav a{
+
+font-weight: 700;
+
+
 }

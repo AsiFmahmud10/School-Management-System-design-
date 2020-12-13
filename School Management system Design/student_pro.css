@@ -1,0 +1,55 @@
+
+body{
+  align-items: center;
+}
+.square{
+   background:white;
+   height: 500px;
+   width: 430px;
+   box-shadow: 0px 0px 15px black;
+   
+   transform: translate(20%,30%);
+   border-radius: 12px;
+   
+   
+}
+.circle {
+    background:url(./img/hudai.jpg) no-repeat center ;
+    background-size:cover;
+    width: 160px;
+    height: 160px;
+    border-radius: 99%;
+    margin: auto;
+    transform: translateY(-10px);
+    border:1px solid ;
+    box-shadow: 0px 0px 12px 2px  black;     
+
+}
+.fon{
+    margin-top:60px;
+     margin-left: 50px;
+     font-weight: 600;
+     color: green;
+     font-size: 20px;
+      
+}
+.side{
+   
+    color:gray;
+    margin-top:142px;
+    margin-left: 272px;
+    
+
+}
+pre{
+color:red;
+font-weight: 600;
+
+
+}
+button{
+  border:2px solid orange;
+  color:black;
+  background:yellow;
+  
+}

@@ -1,8 +1,10 @@
 
 body{
   align-items: center;
-  background: url(./img/prof.jpg) no-repeat ;
+  background: url(../img/prof.jpg) no-repeat ;
   background-size: cover;
+  box-sizing: border-box;
+  width:100%;
 }
 .square{
    background:rgb(61, 57, 57);
@@ -16,7 +18,7 @@ body{
    
 }
 .circle {
-    background:url(./img/hudai.jpg) no-repeat  ;
+    background:url(../img/profile.png) no-repeat  ;
     background-size:cover;
     width: 157px;
     height: 160px;

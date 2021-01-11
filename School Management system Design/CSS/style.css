@@ -85,6 +85,12 @@ box-shadow: 0 4px 8px  rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 
 }
+
+li a:hover{
+color: white;
+
+
+}
 .fon{
     font-weight: 400;
     font-family: sans-serif
@@ -98,6 +104,10 @@ box-shadow: 0 4px 8px  rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     color: crimson;
     
 
+}
+
+.icon:hover{
+    color: #000;
 }
 .sec i{
     
@@ -134,7 +144,7 @@ font-weight: 700;
 .sec p{
 
    
-   color:rgb(26, 187, 26);
+   color:#dc3545;
    font-weight: 700;
    height: 32px;
    border-radius: 0px 0px 14px 14px;
